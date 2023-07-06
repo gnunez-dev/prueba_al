@@ -1,4 +1,4 @@
-# AKELAB-Prueba
+# Prueba
 
 ## Servidor
 El servidor esta en la carpeta *api* el comando para ejecutarlo es ``nodemon start`` esta configurado en el puerto 3001
